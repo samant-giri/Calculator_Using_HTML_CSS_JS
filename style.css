@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@800&family=Creepster&family=Roboto+Slab&family=Teko:wght@500;600;700&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    
+    /* font-family: 'ballo 2'; */
+}
+
+.full-body {
+    background-color: rgb(182, 150, 150); 
+     max-width: 400px;
+     margin: auto;
+     padding: 20px;
+     border: solid black 1px;
+     /* box-shadow: 5px 5px 20px rgb(78, 60, 45); */
+}
+
+.btn {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+    background-color: rgb(222, 193, 166);
+    font-weight: bold;
+    box-shadow:2px 2px 5px black;
+    width: 70px;
+
+}
+
+.btno {
+    background-color: rgb(251, 136, 54);
+    color: aliceblue;
+}
+
+.btn1 {
+    background-color: rgb(231, 164, 87);
+    color: white;
+}
+
+.btns {
+    padding: 20px 16px;
+}
+
+.row {
+    margin: 8px 0px;
+}
+
+.row input {
+    margin: 0;
+    padding: 10px 10px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 20px;
+    background-color: rgb(243, 243, 226);
+    box-shadow:2px 2px 5px black;
+}
